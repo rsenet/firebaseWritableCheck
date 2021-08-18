@@ -4,6 +4,8 @@
 
 ## Usage
 
+Disclaimer: The provided software is meant for educational purposes only. Use this at your own discretion, the creator cannot be held responsible for any damages caused. Please, use responsibly!
+
 Print the help to get all necessary information
 
 ```bash
