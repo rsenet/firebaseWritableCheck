@@ -9,7 +9,7 @@ setup(
     long_description=long_description,
     url="https://github.com/rsenet/firebaseWritableCheck",
     author="Régis SENET",
-    author_email="regis.senet@bssi.fr",
+    author_email="regis.senet@orhus.fr",
     license="GPLv3",
 
     classifiers=[
